@@ -1,0 +1,3 @@
+totoal comment：8234
+负面 comment number：1360 proportion：0.16516881224192373
+正面 comment number：6874 proportion：0.8348311877580763
